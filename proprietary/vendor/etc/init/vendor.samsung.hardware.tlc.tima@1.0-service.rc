@@ -1,0 +1,4 @@
+service timaserv /vendor/bin/hw/vendor.samsung.hardware.tlc.tima@1.0-service
+    class hal
+    user system
+    group system
